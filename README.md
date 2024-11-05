@@ -1,2 +1,3 @@
 # powerpoint automation
- get text and photos and creat a powerpoint
+
+get text and photos and creat a powerpoint
