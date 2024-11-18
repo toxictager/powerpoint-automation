@@ -6,7 +6,7 @@ from pptx.util import Inches
 import os
 
 # Replace this with your actual Hugging Face API token
-HUGGING_FACE_API_KEY = "YOUR_HUGGING_FACE_API_KEY"
+HUGGING_FACE_API_KEY = ""
 
 # Define available languages
 languages = [
